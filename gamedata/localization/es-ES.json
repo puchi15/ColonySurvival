@@ -19,10 +19,10 @@
 	},
 	"sentences": {
 		"astrolabe": {
-			"bigtree": "_MISSING_Mammoth Tree",
-			"heath": "_MISSING_Heath",
-			"marsh": "_MISSING_Marsh",
-			"mountain": "_MISSING_Mountain"
+			"bigtree": "Árboles gigantes",
+			"heath": "Tundra",
+			"marsh": "Pantano",
+			"mountain": "Montaña"
 		},
 		"bannerclickedpopup": {
 			"deletebanner": "Borrar Estandarte",
@@ -46,13 +46,13 @@
 			"startoutpostremote": "_MISSING_Start a new outpost"
 		},
 		"category": {
-			"consumables": "_MISSING_Consumables",
-			"decorative": "_MISSING_Building Blocks",
-			"defense": "_MISSING_Defense",
-			"essential": "_MISSING_Essentials",
-			"food": "_MISSING_Food",
+			"consumables": "Consumibles",
+			"decorative": "Bloques de construcción",
+			"defense": "Defensa",
+			"essential": "Esenciales",
+			"food": "Comida",
 			"ingredient": "_MISSING_Ingredients & Luxury",
-			"job": "_MISSING_Jobblocks",
+			"job": "Bloques de trabajo",
 			"misc": "_MISSING_Misc",
 			"texres": "_MISSING_Textiles & Research"
 		},
@@ -62,8 +62,8 @@
 		},
 		"colonymanagement": {
 			"colonysettings": {
-				"difficulty": "_MISSING_Difficulty",
-				"difficultylocked": "_MISSING_Locked Difficulty",
+				"difficulty": "Dificultad",
+				"difficultylocked": "Bloquear dificultad",
 				"header": "Ajustes de la Colonia"
 			},
 			"diplomacy": {
@@ -111,7 +111,7 @@
 				"role": "Rol",
 				"settoleader": "Promover a lider"
 			},
-			"recruit": "_MISSING_Recruit",
+			"recruit": "Reclutar",
 			"recruitauto": "Auto-reclutar en lugares de trabajo",
 			"recruitfailedbeds": "<color=red>No hay suficientes camas libres para reclutar un colono.</color>",
 			"recruitfailedcap": "<color=red>Debes incrementar la cantidad máxima de colonos para poder recrutar un nuevo colono.</color>",
@@ -312,9 +312,9 @@
 			"quickstart": "Inicio rápido"
 		},
 		"mainmenu": {
-			"back": "Atras",
+			"back": "Atrás",
 			"contentmanager": "Gestor de mods",
-			"continue": "_MISSING_Continue",
+			"continue": "Continuar",
 			"coop": "Cooperativo",
 			"info": "Información",
 			"multiplayer": "Multijugador",
@@ -374,10 +374,10 @@
 		},
 		"npcs": {
 			"pipliz": {
-				"alchemist": "_MISSING_Alchemist",
+				"alchemist": "Alquimista",
 				"alkanetfarmer": "_MISSING_Alkanet Farmer",
 				"barleyfarmer": "_MISSING_Barley Farmer",
-				"beekeeper": "_MISSING_Beekeeper",
+				"beekeeper": "Apicultor",
 				"berryfarmer": "Agricultor de bayas",
 				"blastfurnace": "_MISSING_Blast Furnace Operator",
 				"bloomeryjob": "Herrero",
@@ -406,19 +406,19 @@
 				"guardbownight": "Arquero nocturno",
 				"guardcrossbowday": "Ballestero diurno",
 				"guardcrossbownight": "Ballestero nocturno",
-				"guardgrenadeday": "_MISSING_Day Grenade Launcher Guard",
-				"guardgrenadenight": "_MISSING_Night Grenade Launcher Guard",
+				"guardgrenadeday": "Granadero diurno",
+				"guardgrenadenight": "Granadero nocturno",
 				"guardhandcannonday": "_MISSING_Day Handcannon Guard",
 				"guardhandcannonnight": "_MISSING_Night Handcannon Guard",
-				"guardmusketday": "_MISSING_Day Musket Guard",
-				"guardmusketnight": "_MISSING_Night Musket Guard",
+				"guardmusketday": "Mosquetero diurno",
+				"guardmusketnight": "Mosquetero nocturno",
 				"guardpoison": "_MISSING_Poison Guard",
 				"guardslingerday": "Hondero diurno",
 				"guardslingernight": "Hondero nocturno",
-				"gunsmith": "_MISSING_Gunsmith",
+				"gunsmith": "Armero",
 				"hempfarmer": "_MISSING_Hemp Farmer",
 				"hollyhockfarmer": "_MISSING_Hollyhock Farmer",
-				"jeweller": "_MISSING_Jeweler",
+				"jeweller": "Joyero",
 				"jobblockcrafter": "_MISSING_Job-block Crafter",
 				"jobblockcrafteradvanced": "_MISSING_Advanced Job-block Crafter",
 				"kilnjob": "_MISSING_Burner",
@@ -443,10 +443,10 @@
 				"trapfixer": "_MISSING_Trapfixer",
 				"watergatherer": "Aguador",
 				"waterpump": "_MISSING_Waterpump Worker",
-				"wheatfarmer": "Agriculto de trigo",
+				"wheatfarmer": "Agricultor de trigo",
 				"wisteriafarmer": "_MISSING_Wisteria Farmer",
 				"wolfsbanefarmer": "_MISSING_Wolfsbane Farmer",
-				"woodcutter": "_MISSING_Woodcutter",
+				"woodcutter": "Aserrador",
 				"writer": "Escritor"
 			}
 		},
@@ -460,8 +460,8 @@
 				"name": "_MISSING_Local Animal Carcass"
 			},
 			"anvil": {
-				"description": "_MISSING_Unlocks the Anvil, an important source of more advanced products like Copper Tools",
-				"name": "_MISSING_Anvil"
+				"description": "Desbloquea el yunque, una fuente importante de productos más avanzados como herramientas de cobre",
+				"name": "Yunque"
 			},
 			"archery": {
 				"description": "_MISSING_Unlocks archers and fletchers, a more effective protection against monsters.",
@@ -484,11 +484,11 @@
 				"name": "_MISSING_Bread"
 			},
 			"bricks": {
-				"description": "_MISSING_Allows baking clay into new types of blocks",
-				"name": "_MISSING_Bricks"
+				"description": "Permite convertir arcilla en nuevos tipos de bloques",
+				"name": "Ladrillos"
 			},
 			"bronze": {
-				"description": "_MISSING_Unlocks a way to make copper stronger, by mixing it with the rare and valuable tin",
+				"description": "Desbloquea una manera de mejorar el cobre mezclándolo con el raro y valioso estaño",
 				"name": "_MISSING_Bronze Age"
 			},
 			"bronzelockbox": {
@@ -516,12 +516,12 @@
 				"name": "_MISSING_Chicken Meals"
 			},
 			"compass": {
-				"description": "_MISSING_Unlocks the compass; a navigation tool to find back your home",
-				"name": "_MISSING_Compass"
+				"description": "Desbloquea la brújula, una herramienta de navegación para encontrar tu hogar",
+				"name": "Brújula"
 			},
 			"constructionbuilder": {
-				"description": "_MISSING_Unlock builder areas for the construction worker",
-				"name": "_MISSING_Builder"
+				"description": "Desbloquea zonas de construcción para el constructor",
+				"name": "Constructor"
 			},
 			"constructiondigger": {
 				"description": "_MISSING_Unlock digger areas for the construction worker",
@@ -540,12 +540,12 @@
 				"name": "_MISSING_Copper Lockbox"
 			},
 			"cotton": {
-				"description": "_MISSING_Unlocks a source of high quality textiles. Cotton plants only grow in heaths.",
+				"description": "Desbloquea una fuente de materiales textiles de alta calidad. El algodón solo crece en tundras.",
 				"name": "_MISSING_Cotton"
 			},
 			"crossbow": {
-				"description": "_MISSING_More powerful archery",
-				"name": "_MISSING_Crossbows"
+				"description": "Arcos más poderosos",
+				"name": "Ballesta"
 			},
 			"dyeing": {
 				"description": "_MISSING_Learn to grow flowers in swamps, allowing you to add color to your world.",
@@ -600,8 +600,8 @@
 				"name": "_MISSING_Grenade Launcher"
 			},
 			"gunpowder": {
-				"description": "_MISSING_Unlocks a powerful new ingredient",
-				"name": "_MISSING_Gunpowder"
+				"description": "Desbloquea un nuevo y poderoso ingrediente",
+				"name": "Pólvora"
 			},
 			"guntrap": {
 				"description": "_MISSING_Unlocks a powerful trap which does enormous amounts of damage.",
@@ -616,8 +616,8 @@
 				"name": "_MISSING_Hemp"
 			},
 			"iron": {
-				"description": "_MISSING_A major step forward for your colony, unlocking a new material which is required in many items",
-				"name": "_MISSING_Iron Age"
+				"description": "Un gran paso para tu colonia, desbloqueando un nuevo material necesario para fabricar muchos objetos",
+				"name": "Hierro"
 			},
 			"jewellery": {
 				"description": "_MISSING_Unlocks the Jeweler, who creates delicate things",
@@ -636,8 +636,8 @@
 				"name": "_MISSING_Metal Lathe"
 			},
 			"miner": {
-				"description": "_MISSING_Unlocks the miner. When placed on a dark stone block, a colonist will come to mine that material continuously.",
-				"name": "_MISSING_Miner"
+				"description": "Desbloquea el minero. Cuando se coloque en un bloque de piedra oscura, un colono vendrá a minar ese material constantemente.",
+				"name": "Minero"
 			},
 			"monocular": {
 				"description": "_MISSING_Unlocks a nifty tool which can be used to observe things in the distance",
@@ -716,8 +716,8 @@
 				"name": "_MISSING_Researcher"
 			},
 			"ropes": {
-				"description": "_MISSING_Unlocks an ingredient with many uses",
-				"name": "_MISSING_Ropes"
+				"description": "Desbloquea un ingrediente con muchos usos",
+				"name": "Cuerdas"
 			},
 			"ropetrap": {
 				"description": "_MISSING_Unlocks a trap that freezes nearby monsters for 10 seconds when one monster passes over it.",
